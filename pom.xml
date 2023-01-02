@@ -5,7 +5,7 @@
 
 	<groupId>com.github.cm360.coloredsigns</groupId>
 	<artifactId>ColoredSigns</artifactId>
-	<version>1.0.0</version>
+	<version>1.0.1</version>
 
 	<name>ColoredSigns</name>
 	<description>A simple colored signs plugin for Spigot</description>
