@@ -1,5 +1,0 @@
-name: ColoredSigns
-main: com.github.cm360.coloredsigns.main.ColoredSignsPlugin
-version: 1.0.0
-api-version: 1.12
-commands:
